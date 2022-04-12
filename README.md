@@ -5,9 +5,9 @@ Gaming Slot Web Full Templates
 This repositories isn't contain any Real Money Online Gambling Site at all... Its just static template that people can use for free 
 
 <h2>Html Gaming Templates</h2>
-This is just an eye catching gaming website templates, also included with HTML5 Demo games
-![image](https://user-images.githubusercontent.com/103384128/162722523-cf147c14-da65-41a8-966a-c6f3e6c848d0.png)
+This is just an eye catching gaming website template
+![image](https://user-images.githubusercontent.com/103384128/163019039-d408419e-498d-4756-8a2d-43b584bcdfc1.png)
+
   
 <h2>Google SEO Support</h2>
-With this templates, you will get Review Rating Star Google Snippets. Cool right ?
-![image](https://user-images.githubusercontent.com/103384128/162796816-8d7739b8-d00d-42c8-9481-5146ea44bbf1.png)
+Soon development
