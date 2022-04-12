@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="250" viewBox="0 0 370 250">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #ff0052;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill-opacity: 0.1;
+      }
+    </style>
+  </defs>
+  <g id="_01" data-name="01">
+    <g id="BG">
+      <g>
+        <path id="Shape_12_copy" data-name="Shape 12 copy" class="cls-1" d="M0,226.291s80.337-50.755,182,.8,188,0,188,0V0H0V226.291Z"/>
+        <path class="cls-2" d="M0,216.291s80.337-50.755,182,.8,188,0,188,0V0H0V216.291Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
