@@ -1,4 +1,4 @@
-# game-slot
+# Game Slot Repositories
 Gaming Slot Web Full Templates
 
 <h2>Disclaimer</h2>
